@@ -1,0 +1,6 @@
+{
+    "-leagues" : "Primeira Liga 2015/16, PD",
+    "-generate": "teams,fixtures,leagueTable",
+    "-usage"   :  "",
+    "-output"  : "somewhere"
+}

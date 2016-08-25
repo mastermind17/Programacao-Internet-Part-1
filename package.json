@@ -1,0 +1,27 @@
+{
+  "name": "pi_serie_1",
+  "version": "1.0.0",
+  "description": "Primeira Serie de exercicios da disciplina de PI - ISEL",
+  "main": "football-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isel-leic-pi/LI51D-G01.git"
+  },
+  "keywords": [
+    "pi",
+    "football-data",
+    "isel",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Grupo 1",
+  "license": "ISC",
+  "homepage": "https://github.com/isel-leic-pi/LI51D-G01/blob/master/README.md",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.3"
+  }
+}

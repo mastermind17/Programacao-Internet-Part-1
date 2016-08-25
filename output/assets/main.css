@@ -1,0 +1,73 @@
+/*
+/*
+The style class used to format the container of teams.
+ */
+.center_content{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+The style class used to format a single team.
+ */
+.team_card{
+ /*
+  border-color: #000;
+  border-width: 2px;
+  border-style: solid;
+  */
+  border: 1px black solid;
+  border-radius: 10px;
+  display: inline-flex;
+  padding: 10px;
+  margin: 2px;
+  min-inline-size: 300px;
+}
+
+h1{
+  text-align: center;
+  color: blue;
+}
+
+/*
+Select the list inside a card and rm style
+ */
+.team_card ul{
+  list-style: none;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+td, th {
+	text-align:center;
+	border: 1px black solid;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+table{
+	margin: 0 auto;
+	border-spacing: 0px;
+}
+
+thead{
+	background-color: LightGray;
+}
+
+tr:nth-child(even) {
+    background-color:lightcyan;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
