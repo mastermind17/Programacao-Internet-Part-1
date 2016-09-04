@@ -8,7 +8,7 @@ The application must be able to generate HTML files from commands given from the
 
 You will need an api key in order to execute this application. Mine was removed before this source code was made public.
 
-This application was made using the Node.Js framework and tries to demonstrate the usage of it. It had the amazing contribution of [@HenriqueCalho](https://github.com/HenriqueCalho).
+This application was made using the Node.Js framework and tries to demonstrate the usage of it. It had the amazing contribution of Pedro Gabriel.
 
 ## How did we solved it
 
